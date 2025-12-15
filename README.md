@@ -1,7 +1,15 @@
-## GitHub Stats (Public repos)
+<div align="center">
+
+# mezzode
+  
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,html,css,sass,nodejs,py,django,ruby,rails,cpp&perline=6)](https://skillicons.dev)
+
+## Public Contributions
 
 [![GitHub stats-dark](https://readmestats.999857.xyz/api?username=mezzode&show_icons=true&hide=stars&include_all_commits=true&show_icons=true&theme=github_dark&hide_title=true#gh-dark-mode-only)](https://github.com/mezzode#gh-dark-mode-only)
 [![GitHub stats-light](https://readmestats.999857.xyz/api?username=mezzode&show_icons=true&hide=stars&include_all_commits=true&show_icons=true&theme=light&hide_title=true#gh-light-mode-only)](https://github.com/mezzode/#gh-light-mode-only)
+
+</div>
 
 <!-- ### Top Languages (Public repos)
 
